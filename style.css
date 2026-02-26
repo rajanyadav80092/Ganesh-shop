@@ -64,7 +64,7 @@ body{
 
 /* part 2 */
 .main-divs {
-    width: 95%;
+    width: 100%;
     margin: 20px auto;
     display: flex;
     flex-wrap: wrap;

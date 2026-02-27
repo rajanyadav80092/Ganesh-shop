@@ -75,33 +75,6 @@ body{
     transform: scale(1.03);
 } 
 
- /* part 2 */ */
-/* .main-divs {
-    width: 100%;
-    margin: 20px auto;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;e
-} */
-
-/* .main-divs1 {
-    flex: 1 1 50px;
-    max-width: 30px;
-    text-align: center;
-}
-
-.main-divs1 img {
-    width: 100%;
-    height: auto;
-    border: 1px solid black;
-    transition: 0.5s ease;
-}
-
-.main-divs1 img:hover {
-    transform: scale(1.03);
-} */
-
 
 
 .foter-div{

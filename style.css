@@ -2,6 +2,7 @@ body{
     margin:0px;
 }
 
+
 .nav-class{
     position: relative;
     top:0px;
@@ -15,11 +16,8 @@ body{
     border:none;
 }
 
-.nav-class h1{
 
-}
-
-@media (max-width: 800px) {
+@media (max-width: 768px) {
 
     .nav-class {
         font-size: 14px;
@@ -31,10 +29,6 @@ body{
         max-width: 100%;
     }
 
-    /* .main-divs1 {
-        flex : 1 1 100%;
-        max-width: 100%;
-    } */
 
     .footer-class h2 {
         font-size: 14px;
@@ -50,15 +44,6 @@ body{
     justify-content: center;
 }
 
-/* .main-div1 img{
-    width: 160px;
-    text-align: center;
-    transform: 0.5 ease;
-}
-
-.main-div1 img:hover {
-    transform: scale(1.03);
-}  */
 .main-div1 {
     flex: 1 1 140px;
     max-width: 160px;

@@ -20,8 +20,8 @@ body{
 @media (max-width: 768px) {
 
     .nav-class {
-        font-size: 14px;
-        padding: 10px;
+        font-size: 1.6rem;
+        padding: 1.45rem;
     }
 
     .main-div1 {
@@ -31,7 +31,7 @@ body{
 
 
     .footer-class h2 {
-        font-size: 14px;
+        font-size: 1.6rem;
     }
 }
 
@@ -76,7 +76,7 @@ body{
 
 .footer-class h2{
     color:darkcyan;
-    font-size: 20px;
+    font-size: 2rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 } 
